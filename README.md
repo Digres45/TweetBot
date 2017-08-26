@@ -1,1 +1,2 @@
-Bot to tweet using Tweeter API's
+Bot to tweet using Twitter API's
+tweepy module used 
